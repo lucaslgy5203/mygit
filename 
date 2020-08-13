@@ -1,0 +1,29 @@
+[33mcommit e2dec13f710578d2b2cd7efe4d88992472529196[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: lucas <lgy1520730@163.com>
+Date:   Thu Aug 13 11:21:38 2020 +0800
+
+    understand how stage works
+
+[33mcommit 79ed17056e7d623dcb8abc0dcd9b08f0d9875569[m
+Author: lucas <lgy1520730@163.com>
+Date:   Thu Aug 13 11:19:19 2020 +0800
+
+    understand how stage works
+
+[33mcommit 699ffa10ba8f1ec0efa3c8c71b2df9eaee693bd2[m
+Author: lucas <lgy1520730@163.com>
+Date:   Thu Aug 13 09:34:33 2020 +0800
+
+    append GPL
+
+[33mcommit 7da6d2c1089bb78396b336d528a9dc460b2bec35[m
+Author: lucas <lgy1520730@163.com>
+Date:   Thu Aug 13 09:31:35 2020 +0800
+
+    add distributed
+
+[33mcommit 727f851af46af936d86b48783b8ca783e9fbee59[m
+Author: lucas <lgy1520730@163.com>
+Date:   Thu Aug 13 09:06:20 2020 +0800
+
+    wrote a readme file
